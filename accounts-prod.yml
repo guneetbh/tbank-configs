@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to TBank accounts related prod webhook APIs "
+  message: "Welcome to TBank accounts related production webhook APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}ee5b59ba1cdf1b40edd73810e710dc9e9981cc3a36791193499b4923003176549e4d068ed543b48650d51eddffa7d217"
